@@ -1,2 +1,3 @@
 I am MCA student
 I am MCA-CCD
+I am MCA-AIML
